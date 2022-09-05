@@ -1,0 +1,2 @@
+tr -d [cC]
+#!/bin/bash
